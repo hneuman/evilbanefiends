@@ -1,1 +1,1 @@
-web: gunicorn --workers=2 apprest.wsgi
+web: gunicorn --workers=2 test_rest.wsgi
